@@ -7,8 +7,8 @@ I am a talented, creative and highly experienced senior developer with team lead
 [![alt text][1.1]][1] @StuartGarner16
 [![alt text][2.1]][2] @stuartgarnerdeveloper
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png (@StuartGarner16)
+[2.1]: http://i.imgur.com/P3YfQoD.png (@stuartgarnerdeveloper)
 
 [1]: https://twitter.com/StuartGarner16
 [2]: https://www.facebook.com/stuartgarnerdeveloper
