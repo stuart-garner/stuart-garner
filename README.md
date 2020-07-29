@@ -4,14 +4,14 @@ I am a talented, creative and highly experienced senior developer with team lead
 
 ## Find me at:
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
+[![alt text][1.1]][1] @StuartGarner16
+[![alt text][2.1]][2] @stuartgarnerdeveloper
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
+[1]: https://twitter.com/StuartGarner16
+[2]: https://www.facebook.com/stuartgarnerdeveloper
 
 
 
