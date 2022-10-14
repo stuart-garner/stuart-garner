@@ -22,5 +22,4 @@ I am a talented, creative and highly experienced senior developer with team lead
 
 ![](https://github-readme-stats.vercel.app/api?username=stuart-garner&theme=nord&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stuart-garner&theme=nord&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stuart-garner&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ---
