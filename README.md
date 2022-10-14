@@ -9,6 +9,7 @@
 - stuart@stuartgarner.dev
 - [https://www.stuartgarner.dev/](https://www.stuartgarner.dev/)
 - [https://www.linkedin.com/in/stuartjgarner/](https://www.linkedin.com/in/stuartjgarner/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stuart__garner) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stuartjgarner) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@stuartgarner51) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@stuartg5150) 
 
 ## **PROFILE**
 
